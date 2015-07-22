@@ -1,0 +1,6 @@
+u_dex = 10
+u_strng = 10
+u_cord = 10
+
+print("Through out this story, use these commands: 'stats' to display stats, or 'quit' to quit.")
+name = input("Ok, the story will begin soon, but first, I need you to tell us your name.")
